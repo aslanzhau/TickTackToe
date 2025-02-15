@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d"
-        Title="TicTacToe" Height="450" Width="1200" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="AliceBlue">
+        Title="Not TickTackToe" Height="450" Width="1200" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Background="AliceBlue">
     <Grid>
         <Button Name="Button1_1" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,120,120" Height="60" Width="60" Click="OnButtonCLick" FontSize="40" Content=""/>
         <Button Name="Button1_2" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,120" Height="60" Width="60" Click="OnButtonCLick" FontSize="40" Content=""/>
